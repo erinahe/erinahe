@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Erin, a current student at the Master of Business Analytics Program at UCLA. I was in the accounting industry for 5 years.
+My name is Erin, a current student at the Master of Business Analytics Program at UCLA. I am a CPA who worked in the accounting industry for 4 years.
 
 - 🔭 I’m currently working on my data science portfolio.
 - 🌱 I’m currently learning sql.
